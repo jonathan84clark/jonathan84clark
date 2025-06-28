@@ -2,7 +2,7 @@
 - 👀 My primary interest is in embedded systems and firmware. That said, I do a lot of other types of development work including game development and applications to meet my family's needs..
 - 📫 You can contact me via email jonathan84clark@yahoo.com
 
-I have released over 30 games on the Google Play store and one on Steam. Here are the links.
+I have released over 30 games on the Google Play store however recently I had to pull out of the Play Store due to Google Play restructuring issues. I also released two games on Steam (so far).
 https://store.steampowered.com/app/959760/Play_Room_0g/  
 https://store.steampowered.com/app/3506560/Confection_Combat/  
 
