@@ -5,6 +5,7 @@
 I have released over 30 games on the Google Play store and one on Steam. Here are the links.
 https://play.google.com/store/apps/developer?id=Juicy+Software+and+Games  
 https://store.steampowered.com/app/959760/Play_Room_0g/  
+https://store.steampowered.com/app/3506560/Confection_Combat/  
 
 ## What types of applications can you expect from me?  
 I am heavily focused on game development right now, although most of those applications are NOT open-source.  
